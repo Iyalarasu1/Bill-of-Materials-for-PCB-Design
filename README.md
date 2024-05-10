@@ -64,7 +64,8 @@ During the product life, components may fail needing repair or upgrade. Here the
 
 
 # Output
-![Screenshot 2024-05-07 081749](https://github.com/JeevaMurthy/Bill-of-Materials-for-PCB-Design/assets/147222117/59b83bac-2de9-4347-a93f-ea7020a549cf)
+![image](https://github.com/Iyalarasu1/Bill-of-Materials-for-PCB-Design/assets/144870581/eab1ffa8-48b0-40a7-ad2c-8081183b2cfb)
+
 
 
 
